@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap');
 .kave{
     color: #1f5b25;
     border:1px solid #1f5b25;
@@ -13,4 +14,24 @@
 }
 .kave:hover{
     box-shadow: 0 0 0 5px #1f5b25;;
+}
+h1{
+    font-family: 'Fredericka the Great', cursive;
+    color: #1f5b25;
+    text-align: center;
+}
+nav{
+    background-color: #1f5b25;
+    padding: 15px;
+}
+nav a{
+    color: white;
+    margin: 15px;
+}
+nav a:hover{
+    color: white;
+    text-decoration: none;
+}
+nav a.logo{
+    font-size: 1.5rem;
 }
