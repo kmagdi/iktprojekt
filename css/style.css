@@ -1,0 +1,16 @@
+.kave{
+    color: #1f5b25;
+    border:1px solid #1f5b25;
+    margin-bottom: 1rem;
+    border-radius: 4px;
+    background-color: white;
+}
+.kave h2{
+    font-size: 1rem;
+    text-align: center;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.kave:hover{
+    box-shadow: 0 0 0 5px #1f5b25;;
+}
