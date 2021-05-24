@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap');
+
 .kave{
     color: #1f5b25;
     border:1px solid #1f5b25;
@@ -8,9 +9,9 @@
     
 }
 .kave h2{
-    font-size: 1.25rem;/**/
+    font-size: 1.25rem;
     font-family: Verdana, Geneva, Tahoma, sans-serif;/**/
-    font-variant: small-caps;/**/
+    font-variant: small-caps;
     text-align: center;
     margin-top: 1rem;
     margin-bottom: 1rem;
@@ -24,32 +25,18 @@ h1{
     color: #1f5b25;
     text-align: center;
 }
-/********************/
+
 body{
     background-color: #fbefdb;
     
 }
-nav{
-    background-color: #1f5b25;
-    padding: 15px;
-    position: fixed;/**/
-    z-index: 1;/**/
-    
-}
-nav a{
-    color: white;
-    margin: 15px;
-}
-nav a:hover{
-    color: white;
-    text-decoration: none;
-}
-nav a.logo{
-    font-size: 1.5em;
-}
 nav img{
     width: 40px;
 }
+.navbar{
+    background-color: #1f5b25;
+}
+
 .banner{
     background-image: url(../img/banner.jpg);
     height: 400px;

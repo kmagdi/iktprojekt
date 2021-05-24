@@ -7,4 +7,6 @@
 - Lorem Picsum: https://picsum.photos/
 - Freepik: https://www.freepik.com/
 - Flaticon: https://www.flaticon.com/
+- Icons made by Freepik: https://www.freepik.com
+- 
 :camel:
