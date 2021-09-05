@@ -73,3 +73,7 @@ footer li>img{
     right:20px;
     top:10px;
 }
+/***/
+.kave>img {
+    width: 100%;
+}
